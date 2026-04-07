@@ -15,7 +15,7 @@
 
 <p align="left">Мой путь в IT начался в 2021 году со школы «Фокус Старт» компании ЦФТ, где я прошёл обучение по направлению «Мастер Supporta» и получил оффер на позицию инженера по прикладному сопровождению банковской системы. Сейчас я работаю ведущим инженером и продолжаю развивать технические навыки, углубляясь в разработку и инфраструктуру. С 2024 года обучаюсь в Нетологии по направлению «Android-разработчик с нуля», где изучаю Java и Kotlin, а также современные инструменты разработки. В свободное время развиваюсь в DevOps: изучаю Linux, CI/CD, контейнеризацию и backend-подходы, стремясь к переходу в инженерную роль, связанную с инфраструктурой и автоматизацией.
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Learning+Linux...;Building+CI/CD...;Working+with+Docker..." />
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Learning+Kotlin+and+Java...;Exploring+CI/CD+and+Docker...;Linux+Enthusiast...;Tech+Geek..." />
 <br>
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/loader.gif" width="150"/>
 
