@@ -39,10 +39,56 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="Gradle"/>
   <img width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/> SQL
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx"/>
+  <img width="40"/>
 </div>
 
 ###
+<h3 align="left">🚀 Мои проекты</h3>
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ DevOps — Notes Backend</h3>
+      <p>REST API на Kotlin + Ktor, задеплоенный на реальный VPS с полным DevOps стеком.</p>
+      <b>Стек:</b>
+      <ul>
+        <li>Kotlin + Ktor 3 + Exposed ORM</li>
+        <li>PostgreSQL + Docker Compose</li>
+        <li>Nginx reverse proxy</li>
+        <li>GitHub Actions CI/CD</li>
+        <li>Prometheus + Grafana + Loki</li>
+      </ul>
+      <a href="https://github.com/sokolkolotay/Back-Server">→ Смотреть репозиторий</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Android — Notes App</h3>
+      <p>Android-приложение на Kotlin, которое работает с реальным backend API.</p>
+      <b>Стек:</b>
+      <ul>
+        <li>Kotlin + MVVM архитектура</li>
+        <li>Retrofit 2 + Coroutines</li>
+        <li>StateFlow + ViewModel</li>
+        <li>RecyclerView + CardView</li>
+        <li>Min SDK: Android 9</li>
+      </ul>
+      <a href="https://github.com/sokolkolotay/Notes-Android">→ Смотреть репозиторий</a>
+    </td>
+  </tr>
+</table>
 
 ###
+
+<h3 align="left">🔥 Моя статистика</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sokolkolotay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokolkolotay&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sokolkolotay&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
+</div>
