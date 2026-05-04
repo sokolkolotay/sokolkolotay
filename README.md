@@ -89,6 +89,13 @@
 </div>
 
 ###
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sokolkolotay&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sokolkolotay&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sokolkolotay/sokolkolotay/output/snake.svg" alt="Snake animation"/>
 </div>
