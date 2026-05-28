@@ -43,16 +43,23 @@
   <img width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx"/>
   <img width="40"/>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka"/>
+ <img width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
+ <img width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="Helm"/>
+ <img width="40"/>
+ </div>
 
 ###
+
 <h3 align="left">🚀 Мои проекты</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🖥️ DevOps — Notes Backend</h3>
-      <p>REST API на Kotlin + Ktor, задеплоенный на реальный VPS с полным DevOps стеком.</p>
+      <p>REST API на Kotlin + Ktor с полным DevOps стеком на реальном VPS.</p>
       <b>Стек:</b>
       <ul>
         <li>Kotlin + Ktor 3 + Exposed ORM</li>
@@ -60,8 +67,37 @@
         <li>Nginx reverse proxy</li>
         <li>GitHub Actions CI/CD</li>
         <li>Prometheus + Grafana + Loki</li>
+        <li>Apache Kafka (Kafka consumer)</li>
+        <li>Kubernetes k3s + Helm</li>
       </ul>
       <a href="https://github.com/sokolkolotay/Back-Server">→ Смотреть репозиторий</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 DevOps — Telegram Bot + Kafka</h3>
+      <p>Telegram бот на Kotlin — создаёт задачи через Kafka, задеплоен на k3s через Helm.</p>
+      <b>Стек:</b>
+      <ul>
+        <li>Kotlin + TelegramBotAPI</li>
+        <li>Apache Kafka (producer)</li>
+        <li>Ktor HTTP Client</li>
+        <li>Kubernetes k3s + Helm</li>
+        <li>GitHub Actions CI/CD</li>
+      </ul>
+      <a href="https://github.com/sokolkolotay/tg-bot">→ Смотреть репозиторий</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ DevOps — Helm Charts</h3>
+      <p>Инфраструктурный репозиторий — Helm charts для деплоя всего стека на Kubernetes.</p>
+      <b>Стек:</b>
+      <ul>
+        <li>Helm 3</li>
+        <li>Kubernetes k3s</li>
+        <li>Apache Kafka KRaft</li>
+        <li>GitHub Actions CI/CD</li>
+      </ul>
+      <a href="https://github.com/sokolkolotay/back-server-k8s">→ Смотреть репозиторий</a>
     </td>
     <td width="50%" valign="top">
       <h3>📱 Android — Notes App</h3>
