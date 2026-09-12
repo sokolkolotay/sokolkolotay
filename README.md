@@ -1,137 +1,109 @@
-<br clear="both">
-
-<div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
-
-###
-
-<h1 align="center">Привет🤝 Меня зовут Илья!</h1>
-
-
-<h3 align="left">👩‍💻  Обо мне</h3>
-
-###
-
-<p align="left">Мой путь в IT начался в 2021 году со школы «Фокус Старт» компании ЦФТ, где я прошёл обучение по направлению «Мастер Supporta» и получил оффер на позицию инженера по прикладному сопровождению банковской системы. Сейчас я работаю ведущим инженером и продолжаю развивать технические навыки, углубляясь в разработку и инфраструктуру. С 2024 года обучаюсь в Нетологии по направлению «Android-разработчик с нуля», где изучаю Java и Kotlin, а также современные инструменты разработки. В свободное время развиваюсь в DevOps: изучаю Linux, CI/CD, контейнеризацию и backend-подходы, стремясь к переходу в инженерную роль, связанную с инфраструктурой и автоматизацией.
+<p align="center">
+  <img src="assets/profile-header.svg" width="100%" alt="Илья Колотай — Android, Backend и DevOps">
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Learning+Kotlin+and+Java...;Exploring+CI/CD+and+Docker...;Linux+Enthusiast...;Tech+Geek..." />
-<br>
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/loader.gif" width="150"/>
 
-###
+<p align="center">
+  <a href="https://zapasli.sokolkolotaj.ru/">Zapasli</a> ·
+  <a href="https://github.com/sokolkolotay/zapasli-android">Android</a> ·
+  <a href="https://github.com/sokolkolotay/zapasli-backend">Backend</a> ·
+  <a href="https://github.com/sokolkolotay/zapasli-web">Web</a> ·
+  <a href="https://api.zapasli.sokolkolotaj.ru/swagger">API Docs</a>
+</p>
 
-<h3 align="left">🛠 Технологии:</h3>
+## Обо мне
 
-<div aling="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="Gradle"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/> SQL
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx"/>
-  <img width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka"/>
- <img width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
- <img width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="Helm"/>
- <img width="40"/>
- </div>
+Я ведущий инженер по прикладному сопровождению банковских систем и развиваюсь как Android/Kotlin-разработчик. Мне интересно собирать продукт целиком: от мобильного интерфейса и API до контейнеризации, CI/CD и production-развёртывания.
 
-###
+С 2021 года работаю в IT. Сейчас мой основной инженерный фокус — **Kotlin, Android, backend и инфраструктура**. В проектах ценю понятную архитектуру, автоматические проверки, безопасность и документацию, по которой систему сможет запустить другой разработчик.
 
-<h3 align="left">🚀 Мои проекты</h3>
+## Zapasli — флагманский проект
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🖥️ DevOps — Notes Backend</h3>
-      <p>REST API на Kotlin + Ktor с полным DevOps стеком на реальном VPS.</p>
-      <b>Стек:</b>
-      <ul>
-        <li>Kotlin + Ktor 3 + Exposed ORM</li>
-        <li>PostgreSQL + Docker Compose</li>
-        <li>Nginx reverse proxy</li>
-        <li>GitHub Actions CI/CD</li>
-        <li>Prometheus + Grafana + Loki</li>
-        <li>Apache Kafka (Kafka consumer)</li>
-        <li>Kubernetes k3s + Helm</li>
-      </ul>
-      <a href="https://github.com/sokolkolotay/Back-Server">→ Смотреть репозиторий</a>
+    <td width="18%" align="center">
+      <img src="assets/zapasli-mark.svg" width="104" alt="Zapasli">
     </td>
-    <td width="50%" valign="top">
-      <h3>🤖 DevOps — Telegram Bot + Kafka</h3>
-      <p>Telegram бот на Kotlin — создаёт задачи через Kafka, задеплоен на k3s через Helm.</p>
-      <b>Стек:</b>
-      <ul>
-        <li>Kotlin + TelegramBotAPI</li>
-        <li>Apache Kafka (producer)</li>
-        <li>Ktor HTTP Client</li>
-        <li>Kubernetes k3s + Helm</li>
-        <li>GitHub Actions CI/CD</li>
-      </ul>
-      <a href="https://github.com/sokolkolotay/tg-bot">→ Смотреть репозиторий</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ DevOps — Helm Charts</h3>
-      <p>Инфраструктурный репозиторий — Helm charts для деплоя всего стека на Kubernetes.</p>
-      <b>Стек:</b>
-      <ul>
-        <li>Helm 3</li>
-        <li>Kubernetes k3s</li>
-        <li>Apache Kafka KRaft</li>
-        <li>GitHub Actions CI/CD</li>
-      </ul>
-      <a href="https://github.com/sokolkolotay/back-server-k8s">→ Смотреть репозиторий</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 Android — Notes App</h3>
-      <p>Android-приложение на Kotlin, которое работает с реальным backend API.</p>
-      <b>Стек:</b>
-      <ul>
-        <li>Kotlin + MVVM архитектура</li>
-        <li>Retrofit 2 + Coroutines</li>
-        <li>StateFlow + ViewModel</li>
-        <li>RecyclerView + CardView</li>
-        <li>Min SDK: Android 9</li>
-      </ul>
-      <a href="https://github.com/sokolkolotay/Notes-Android">→ Смотреть репозиторий</a>
+    <td width="82%">
+      <h3>Zapasli · семейный учёт домашних продуктов</h3>
+      <p>Full-stack дипломный продукт: Android-приложение, собственный backend и продуктовый сайт. Zapasli помогает учитывать продукты, сроки годности, места хранения, штрихкоды и КБЖУ.</p>
+      <p>
+        <a href="https://zapasli.sokolkolotaj.ru/"><strong>Открыть сайт</strong></a> ·
+        <a href="https://github.com/sokolkolotay/zapasli-android/releases/latest"><strong>Скачать APK</strong></a> ·
+        <a href="https://api.zapasli.sokolkolotaj.ru/swagger"><strong>Swagger / OpenAPI</strong></a>
+      </p>
     </td>
   </tr>
 </table>
 
-###
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 · Android</h3>
+      <p>Offline-first приложение на Kotlin и Jetpack Compose: Room, Retrofit, Coroutines, Hilt, CameraX и ML Kit.</p>
+      <p>RU/EN · светлая/тёмная тема · unit/UI tests · GitHub Actions</p>
+      <a href="https://github.com/sokolkolotay/zapasli-android"><strong>zapasli-android →</strong></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02 · Backend</h3>
+      <p>Production API на Kotlin/Ktor с PostgreSQL, Flyway, защищёнными сессиями и полной OpenAPI-схемой.</p>
+      <p>Docker Compose · health checks · HTTPS · автоматические тесты</p>
+      <a href="https://github.com/sokolkolotay/zapasli-backend"><strong>zapasli-backend →</strong></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 · Product Web</h3>
+      <p>Адаптивный сайт продукта с живым preview реальных экранов приложения и прямой загрузкой APK.</p>
+      <p>Semantic HTML · responsive CSS · Caddy · Docker · CI</p>
+      <a href="https://github.com/sokolkolotay/zapasli-web"><strong>zapasli-web →</strong></a>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">🔥 Моя статистика</h3>
+## Обучение
 
-<div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=sokolkolotay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sokolkolotay&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
+<table>
+  <tr>
+    <td width="28%" align="center">
+      <a href="https://netology.ru/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://static.tildacdn.com/tild3865-3364-4862-b631-373063623366/FULL_logo_white.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://static.tildacdn.com/tild3965-3531-4235-b330-633633363065/full_1.svg">
+          <img src="https://static.tildacdn.com/tild3965-3531-4235-b330-633633363065/full_1.svg" width="190" alt="Нетология">
+        </picture>
+      </a>
+    </td>
+    <td width="72%">
+      <h3>Android-разработчик с нуля</h3>
+      <p><strong>Нетология · 2024–2026</strong></p>
+      <p>Kotlin, Java, Android SDK, архитектура приложений, работа с сетью и локальными данными, тестирование и командный Git workflow. Итоговая работа — экосистема Zapasli.</p>
+    </td>
+  </tr>
+</table>
 
-###
+## Технологии
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sokolkolotay&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=0B211A" alt="Android">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white" alt="Ktor">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+</p>
 
-###
+## Другие проекты
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sokolkolotay/sokolkolotay/output/snake.svg" alt="Snake animation"/>
-</div>
+- [Back-Server](https://github.com/sokolkolotay/Back-Server) — Ktor API на VPS: PostgreSQL, Docker Compose, Kafka, observability и CI/CD.
+- [tg-bot](https://github.com/sokolkolotay/tg-bot) — Telegram-бот на Kotlin с Kafka producer и развёртыванием в k3s.
+- [back-server-k8s](https://github.com/sokolkolotay/back-server-k8s) — Helm charts для Kubernetes-инфраструктуры backend-стека.
+- [Notes-Android](https://github.com/sokolkolotay/Notes-Android) — Android-клиент на Kotlin, Retrofit, Coroutines и MVVM для собственного API.
+
+---
+
+<p align="center">
+  <strong>Инженерия полного цикла: приложение → API → инфраструктура → production.</strong>
+</p>
