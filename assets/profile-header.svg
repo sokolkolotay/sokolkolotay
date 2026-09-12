@@ -1,20 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Илья Колотай</title>
-  <desc id="desc">Android, backend и DevOps инженерия.</desc>
+  <desc id="desc">Kotlin, Android, backend и инфраструктура.</desc>
   <rect width="1200" height="300" rx="32" fill="#0B211A"/>
   <circle cx="1065" cy="-20" r="180" fill="#C8F36B" opacity=".12"/>
   <circle cx="1140" cy="245" r="120" fill="#7BE1BB" opacity=".13"/>
   <path d="M930 236h175" stroke="#FF6D50" stroke-width="10" stroke-linecap="round"/>
   <text x="70" y="105" fill="#C8F36B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="4">ENGINEERING FULL-CYCLE PRODUCTS</text>
   <text x="66" y="183" fill="#FFFDF6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="64" font-weight="800" letter-spacing="-2">ILYA KOLOTAY</text>
-  <text x="70" y="235" fill="#7BE1BB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="600">ANDROID  ·  BACKEND  ·  DEVOPS</text>
+  <text x="70" y="235" fill="#7BE1BB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="600">KOTLIN  ·  ANDROID  ·  BACKEND  ·  INFRASTRUCTURE</text>
   <g transform="translate(985 68) scale(1.3)">
     <path d="M70 32V24c0-3.3 2.7-6 6-6h2c3.3 0 6 2.7 6 6v16Z" fill="#C8F36B"/>
     <path d="m25 40 29-18 29 18" fill="none" stroke="#C8F36B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
     <rect x="30" y="43" width="48" height="12" rx="6" fill="#FFFDF6"/>
     <path d="M36 57h36c6.6 0 12 5.4 12 12v11c0 7.7-6.3 14-14 14H38c-7.7 0-14-6.3-14-14V69c0-6.6 5.4-12 12-12Z" fill="#FFFDF6"/>
     <path d="M39 63h30c5 0 9 4 9 9v8c0 4.4-3.6 8-8 8H38c-4.4 0-8-3.6-8-8v-8c0-5 4-9 9-9Z" fill="#7BE1BB"/>
-    <path d="M38 69h31L39 84h31" fill="none" stroke="#0B211A" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M35 69c5-1.5 10-1.5 15 0" fill="none" stroke="#0B211A" stroke-width="6" stroke-linecap="round"/>
+    <path d="M38 83c6-8 13-8 20-11 6-2.5 10-6.5 14-9" fill="none" stroke="#0B211A" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M59 83.5c5 1.5 9 1.5 13-.5" fill="none" stroke="#0B211A" stroke-width="6" stroke-linecap="round"/>
     <circle cx="74" cy="54" r="5" fill="#FF6D50"/>
   </g>
 </svg>
